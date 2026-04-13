@@ -1,7 +1,9 @@
 # Snake Game
 
 A simple Snake game built with Python and Tkinter.
+## 🎮 Preview
 
+![Snake Game](gameplay_screenshot.png)
 ## Features
 - Main menu
 - Pause and resume
